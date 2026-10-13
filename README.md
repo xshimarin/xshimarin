@@ -62,9 +62,9 @@ Informatics Engineering student at Universitas Battuta.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhayynaaa/dhayynaaa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhayynaaa/dhayynaaa/output/pacman-contribution-graph.svg">
-    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/dhayynaaa/dhayynaaa/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xshimarin/xshimarin/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xshimarin/xshimarin/output/pacman-contribution-graph.svg">
+    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/xshimarin/xshimarin/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
